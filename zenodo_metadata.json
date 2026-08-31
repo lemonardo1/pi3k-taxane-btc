@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "upload_type": "dataset",
+    "title": "Derived data and analysis code for: PI3K pathway alterations and attenuated taxane benefit in advanced biliary tract cancer",
+    "creators": [
+      {
+        "name": "Kim, Daeseong",
+        "affiliation": "Yonsei Cancer Center, Yonsei University College of Medicine"
+      },
+      {
+        "name": "Chon, Hong Jae",
+        "affiliation": "CHA Bundang Medical Center, CHA University School of Medicine"
+      },
+      {
+        "name": "Kim, Chang Gon",
+        "affiliation": "Yonsei Cancer Center, Yonsei University College of Medicine"
+      },
+      {
+        "name": "Choi, Hye Jin",
+        "affiliation": "Yonsei Cancer Center, Yonsei University College of Medicine",
+        "orcid": "0000-0001-5917-1400"
+      }
+    ],
+    "description": "<p>Derived datasets and analysis code supporting the manuscript <em>PI3K pathway alterations and attenuated taxane benefit in advanced biliary tract cancer</em> (submitted to npj Precision Oncology, 2026).</p><p>Contents: the harmonised patient-level table for ten public biliary tract cancer cohorts; the complete in-silico saturation mutagenesis output (283,442 ESM-2 variant scores across fourteen PI3K pathway genes); empirical-Bayes shrunk gene-level weights (k = 4); variant-level mode-aware functional scores; the Boltz-2 predicted p110alpha-p85 niSH2 complex coordinates with per-variant interface geometry; DNA-level Evo 2 variant scores; the permutation screens, sensitivity analyses and trial-design simulation underlying the supplementary tables; and the analysis and figure code with a pinned conda environment.</p><p>Individual-level clinical and sequencing data from the Yonsei index cohort (n = 287) and the CHA validation cohort (n = 167) are <strong>not</strong> included: the consent and institutional approvals under which they were accrued (Yonsei 4-2023-0485; CHA 2021-01-010, 2021-03-045, 2022-11-002) do not permit open redistribution. De-identified data are available from the corresponding author on reasonable request, subject to an institutional data-sharing agreement and IRB approval.</p><p>The ten public cohorts were obtained from cBioPortal; mutation calls were retrieved through the cBioPortal REST API. See README.md and MANIFEST.csv (SHA-256 checksums) in the archive.</p>",
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "language": "eng",
+    "keywords": [
+      "biliary tract cancer",
+      "cholangiocarcinoma",
+      "PI3K pathway",
+      "nab-paclitaxel",
+      "taxane",
+      "treatment-effect modification",
+      "protein language model",
+      "ESM-2",
+      "precision oncology"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.3350/cmh.2025.1019",
+        "relation": "isSupplementTo",
+        "scheme": "doi"
+      }
+    ],
+    "notes": "Data files CC BY 4.0; code MIT (see LICENSE)."
+  }
+}

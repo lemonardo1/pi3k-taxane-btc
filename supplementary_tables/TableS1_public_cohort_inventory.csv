@@ -1,0 +1,11 @@
+cBioPortal study,Molecular data used,Patients,Molecularly profiled,"PI3K altered, n","PI3K altered, %",OS events
+chol_icgc_2017,Somatic mutations (surgical series),489,417,65,15.6,153
+ihch_msk_2021,Somatic mutations (chemotherapy flag only),412,412,54,13.1,287
+chol_msk_2018,Somatic mutations (regimen-annotated),192,192,33,17.2,134
+ihch_smmu_2014,Somatic mutations (surgical series),103,103,20,19.4,71
+gbc_msk_2018,Somatic mutations (no survival data),101,101,30,29.7,0
+chol_jhu_2013,Somatic mutations (surgical series),40,40,7,17.5,0
+chol_tcga_pan_can_atlas_2018,Somatic mutations (surgical series),36,36,8,22.2,18
+gbc_shanghai_2014,Somatic mutations (surgical series),32,32,2,6.2,20
+chol_nccs_2013,Somatic mutations (surgical series),15,15,0,0.0,0
+chol_nus_2012,Somatic mutations (surgical series),8,8,1,12.5,7

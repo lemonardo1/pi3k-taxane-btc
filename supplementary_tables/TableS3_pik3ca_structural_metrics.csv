@@ -1,0 +1,20 @@
+Variant,Residue,Functional mode,CIViC-curated activating,ESM-2 log-likelihood ratio,Constraint percentile,Distance to p85α niSH2 (Å),Surface buried by p85α (Å²),Relative solvent accessibility,Flagged by structure (<8 Å),Flagged by sequence (>0.6),Flagged by either axis
+p.N345K,345,GOF,Yes,-0.651,0.796,2.478,100.484,0.611,Yes,Yes,Yes
+p.E545K,545,GOF,Yes,-3.155,0.55,2.72,95.335,0.497,Yes,No,Yes
+p.E365K,365,GOF,Yes,-0.896,0.769,3.352,22.655,0.342,Yes,Yes,Yes
+p.T1025A,1025,GOF,No,-0.374,0.831,8.146,0.0,0.013,No,Yes,Yes
+p.H1047L,1047,GOF,Yes,0.348,0.911,10.316,0.0,0.113,No,Yes,Yes
+p.H1047R,1047,GOF,Yes,-2.525,0.605,10.316,0.0,0.113,No,Yes,Yes
+p.M1043I,1043,GOF,Yes,1.005,0.956,11.299,0.0,0.0,No,Yes,Yes
+p.L1001I,1001,GOF,No,-4.927,0.421,15.835,0.0,0.006,No,No,No
+p.R38C,38,GOF,Yes,-3.695,0.508,16.628,0.0,0.0,No,No,No
+p.R88Q,88,GOF,Yes,-2.248,0.63,16.677,0.0,0.157,No,Yes,Yes
+p.D84N,84,GOF,No,-3.273,0.54,16.819,0.0,0.412,No,No,No
+p.R108H,108,GOF,Yes,-1.19,0.735,18.401,0.0,0.367,No,Yes,Yes
+p.K111E,111,GOF,Yes,0.973,0.954,18.493,0.0,0.372,No,Yes,Yes
+p.Q597P,597,GOF,No,-6.286,0.335,18.506,0.0,0.291,No,No,No
+p.Q731R,731,GOF,No,0.382,0.914,18.524,0.0,0.015,No,Yes,Yes
+p.C901F,901,GOF,No,-11.025,0.094,22.575,0.0,0.0,No,No,No
+p.G967E,967,GOF,No,-10.498,0.114,27.056,0.0,0.276,No,No,No
+p.D787Y,787,GOF,No,-6.647,0.312,36.689,0.0,0.097,No,No,No
+p.S199Y,199,GOF,No,-0.36,0.832,52.434,0.0,0.599,No,Yes,Yes

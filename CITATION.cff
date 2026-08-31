@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: If you use these data or this code, please cite the article and this record.
+title: "Derived data and analysis code for: PI3K pathway alterations and attenuated taxane benefit in advanced biliary tract cancer"
+type: dataset
+authors:
+  - family-names: Kim
+    given-names: Daeseong
+  - family-names: Chon
+    given-names: Hong Jae
+  - family-names: Kim
+    given-names: Chang Gon
+  - family-names: Choi
+    given-names: Hye Jin
+    orcid: "https://orcid.org/0000-0001-5917-1400"
+license: MIT
+keywords:
+  - biliary tract cancer
+  - PI3K pathway
+  - nab-paclitaxel
+  - treatment-effect modification
+  - protein language model
+preferred-citation:
+  type: article
+  title: "PI3K pathway alterations and attenuated taxane benefit in advanced biliary tract cancer"
+  authors:
+    - family-names: Kim
+      given-names: Daeseong
+    - family-names: Chon
+      given-names: Hong Jae
+    - family-names: Kim
+      given-names: Chang Gon
+    - family-names: Choi
+      given-names: Hye Jin
+  journal: npj Precision Oncology
+  year: 2026

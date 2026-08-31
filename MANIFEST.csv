@@ -1,0 +1,25 @@
+path,bytes,sha256,description
+code/build_cover.py,733,74101fb71109badd4deedfe28c778b7e484b3e261c7ed9d8df13d2fd4e00edba,Figure and PDF build script.
+code/build_figure1.py,7711,e2a41f70348002303197ed4a9908fb9044250d964567307df383e0096b2ad0bb,Figure and PDF build script.
+code/build_manuscript.py,5136,bb3b1e6dae6bc76b839ce929ba74ef8a6fbb5ced7bf33e09b113d43ce3d52e59,Figure and PDF build script.
+code/build_si.py,8569,4f9167bd44c16760aec14678eab4fff3c990eb4e4e5c8e31fc35b11eabf350f1,Figure and PDF build script.
+code/environment.yml,434,1eaff4ad824ca9b9bd9440f667dcdaa901783973e9868181903a0300b91b5189,Conda environment specification with version pins.
+code/npjpdf.py,7702,5961b8e62d89721d0a50345dcdebbe4dfd93c9483372a7218e631754b39529cf,Figure and PDF build script.
+code/reproduce_analysis.py,12641,ffd4821291100d41afdc4dcfde860a39435ab095beaa693ce626db12cec97be4,End-to-end reproduction script for the reported estimates.
+data/evo2_variant_scores.csv,5771,41b5ffc4775ac8ea69154cd89f7697117a36703b66d0dff93c3b42950ca314cb,"DNA-level Evo 2 scores for the 56 observed missense variants (8,193-bp window)."
+data/gene_level_weights.csv,1427,c3f7b2796f6a8ddddcd119b202a408e0069529a41b6128d353404871a42fb2d3,Empirical-Bayes shrunk gene-level weights (k = 4) used to build the continuous PI3K score.
+data/harmonized_public_btc.csv,302299,b2d2dec56e37cd13c0e1cff19d607aa4967881bea70fbe9423df81b62605d967,"Harmonised patient-level table for the ten public biliary tract cancer cohorts: treatment annotation, PI3K pathway status, survival."
+data/pathway_alteration_events.csv,138304,55516d987763a790f43846d8bd13acec39dcdac229bc842f9591fbbae133fd59,Per-event pathway alteration calls underlying the public-cohort prevalence and prognostic analyses.
+data/pi3k_dms_scan.csv.gz,2367675,d7a327a8f1ebbe9523132316459839a88c1b0bfdb3512f3bed588a15f04c9c35,"Complete in-silico saturation mutagenesis background: 283,442 ESM-2 log-likelihood-ratio scores across the fourteen pathway genes."
+data/variant_function_scores.csv,5782,7283bcb693315bcc3bf94ef87f9897d19149d9c04799cbc3d07077eaa38efc31,"Variant-level mode-aware functional scores for the observed PI3K pathway variants, with CIViC status."
+structure/pi3k_interface_metrics.csv,88525,437c1cbdf671aec8697e8a7ca165f84aa0f453f7816f9f0023b2f0b0f7adf8c3,Per-residue interface geometry computed on the predicted complex.
+structure/pi3k_p110a_p85_complex.pdb,898289,68a6f96b09e1a55677ec2b1abe8600a2970c300fb47e354628f390de63d789b7,Boltz-2 predicted p110alpha-p85 niSH2 complex coordinates.
+structure/pik3ca_structure_variants.csv,3123,ccc93b0587989f2dc8f838da980a2c2e2828758c2ba2b94b8788c599137c5a7c,Per-variant distance to the p85 regulatory interface for the PIK3CA variants analysed.
+supplementary_tables/TableS1_public_cohort_inventory.csv,814,5562c84f8b979da62889a5c15afc2a737a62b8eeafb46a638e0945af1628c94e,Supplementary Table S1 source data: public cohort inventory.
+supplementary_tables/TableS2_pathway_and_gene_screens.csv,2917,883920de36ca7a8dbfb103c41a4ac1adb4379f61c97ce5f69c767d7374a233c1,Supplementary Table S2 source data.
+supplementary_tables/TableS3_pik3ca_structural_metrics.csv,1410,ed80fd9becbd7cfc2a00ebc94fa8f4a1810b9f9ad8a8d3020f5451c426663629,Supplementary Table S3 source data.
+supplementary_tables/TableS7_baseline_by_treatment_arm.csv,1471,10750cff439330e920becfe8fa9e8784e5893302ef57177121bf7463d54a2eae,Supplementary Table S7 source data.
+supplementary_tables/permutation_gene_screen.csv,7615,617d6d5bca54c9da8a40c0290612bdc865ffcfe0ae796004d897c75e77bd7716,"Permutation gene-level screen, full output."
+supplementary_tables/permutation_pathway_screen.csv,3574,c1019385e1dce497837723b6919967d2230d451e91daa4295ff072854373af66,"Permutation pathway screen (10,000 replicates), full output."
+supplementary_tables/sensitivity_analyses.csv,8107,ae5b76a459cf6d26e1f0487f195d789a7a30485c25ef9009f97a907871dfc58f,Sensitivity and robustness analyses (Supplementary Table S6 source data).
+supplementary_tables/trial_design_simulation.csv,401,30b5684c580ca6b150081a1a90c441323ab99f6fc0cb9b080d5f445220f2d127,Trial-design event-requirement simulation output (Figure 4b).

@@ -1,0 +1,18 @@
+# Conda environment for the reported analyses
+name: pi3k-taxane-btc
+channels: [conda-forge]
+dependencies:
+  - python=3.12.13
+  - pip:
+      - numpy==2.5.1
+      - pandas==2.3.3
+      - scipy==1.18.0
+      - scikit-learn==1.9.0
+      - lifelines==0.30.3
+      - scikit-survival==0.28.0
+      - statsmodels==0.14.6
+      - biopython==1.88
+      - matplotlib==3.11.1
+      - reportlab==5.0.0
+      - pypdf==6.15.0
+      - pillow==12.3.0

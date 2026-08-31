@@ -1,0 +1,7 @@
+prevalence,prevalence_source,blended_HR,events_all_comers,events_enriched,screened_for_enriched,efficiency_ratio
+0.154,Tier A public cohorts (n=615),0.746,366,162,192,1.91
+0.202,Index cohort (n=287),0.781,515,162,203,2.53
+0.25,interpolated,0.818,776,162,216,3.59
+0.3,interpolated,0.858,1336,162,232,5.77
+0.311,Validation cohort (n=167),0.867,1540,162,235,6.54
+0.35,interpolated,0.9,2821,162,249,11.31
